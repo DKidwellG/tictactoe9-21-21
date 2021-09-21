@@ -1,0 +1,7 @@
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\bin\Debug\tic,tac,toe.exe.config
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\bin\Debug\tic,tac,toe.exe
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\bin\Debug\tic,tac,toe.pdb
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\obj\Debug\tic,tac,toe.csproj.AssemblyReference.cache
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\obj\Debug\tic,tac,toe.csproj.CoreCompileInputs.cache
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\obj\Debug\tic,tac,toe.exe
+C:\Users\ryzncrap\Desktop\SD-102\C# projects\tic,tac,toe\tic,tac,toe\obj\Debug\tic,tac,toe.pdb
